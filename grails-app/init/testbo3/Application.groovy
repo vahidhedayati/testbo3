@@ -1,4 +1,4 @@
-package testbo4
+package testbo3
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration

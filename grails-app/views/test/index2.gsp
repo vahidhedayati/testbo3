@@ -12,7 +12,7 @@ job="job2"
    <form  action="example5">    
     
 <bo:selecta id="MyContinent2" name="MyContinent2"
-
+clazz="bigFont"
 job= "job2"
 user="randomUser2"
 domainDepth="0"
@@ -38,6 +38,7 @@ domainDepth="0"
 
 
 <bo:selecta id="MyCountry11" name="MyCountry11"
+clazz="bigFont"
 job= "job2"
 user="randomUser2"
 domainDepth="0"
@@ -60,6 +61,7 @@ domainDepth="0"
 
 
     <bo:selecta name="MyCity11" id="MyCity11"  
+clazz="bigFont"
     job= "job2"
 user="randomUser2"
     

@@ -62,7 +62,6 @@ value="4"
     <bo:selecta name="MyCity11" id="MyCity11"  
     job= "job212"
 user="${myuser ?: 'notworking' }"
-    optionKey="id" optionValue="name"
     
     formatting="JSON"
     domain2='ajaxdependancyselectexample.MyShops'

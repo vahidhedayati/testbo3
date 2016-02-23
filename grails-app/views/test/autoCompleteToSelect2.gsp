@@ -81,7 +81,6 @@
     <bo:selecta name="MyCity11" id="MyCity11"  
    job="job2" 
 		user="${myuser}"
-    optionKey="id" optionValue="name"
     
     
     domain2='ajaxdependancyselectexample.MyShops'

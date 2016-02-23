@@ -1,3 +1,7 @@
+                <meta name="layout" content="main"/>
+
+<bo:listActiveSockets/>
+
 <a class="button" href="index">Default index</a> | <a href="index2" class="button">Triple select</a>
 | <a class="button" href="definedselectvalues">Defined values 1 </a>
 | <a class="button" href="definedselectvalues2">Defined values 2 </a>

@@ -9,7 +9,7 @@ job="job1"
    <form  action="example5">
   
   
-<bo:selecta id="MyCountry1" name="MyCountry1"
+<bo:selecta clazz="bigFont" id="MyCountry1" name="MyCountry1"
 job= "job1"
 user="${myuser }"
 domainDepth="0"
